@@ -1,6 +1,6 @@
 export function Footer() {
   return (
-    <footer className="w-full flex items-center justify-center gap-4 font-light text-sm text-gray-300">
+    <footer className="w-full flex items-center justify-center py-1 px-4 text-xs  gap-4 font-light md:text-sm text-gray-300">
       <span>Guilherme Lima &copy; Copiryght 2025</span>
 
       <a
